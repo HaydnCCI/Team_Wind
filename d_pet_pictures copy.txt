@@ -1,0 +1,2 @@
+90000
+H 16 tm2 tl2 td4 t6 t82 t52 t86 th5 t44 t47 ts2 tc5 tl5 tc4 tf1 tw3
